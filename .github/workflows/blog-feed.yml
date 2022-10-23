@@ -26,4 +26,4 @@ jobs:
            id: commit
            uses: sarisia/actions-commit@master
            with:
-              message: "docs: update feed"
+              message: "docs: Update feed"
