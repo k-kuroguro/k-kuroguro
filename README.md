@@ -1,11 +1,11 @@
 ## Recent Posts on Zenn
 
 <!-- feed start -->
+- Dec 05 - [数値計算による等電位線のシミュレーション](https://zenn.dev/k_kuroguro/articles/6dc19f0028c860)
 - Oct 22 - [固定長データを持つ全二分木のシリアライズとデシリアライズ](https://zenn.dev/k_kuroguro/articles/5baee620d0ffbd)
 - May 05 - [オムニホイールの方向計算](https://zenn.dev/k_kuroguro/articles/2653b3d92536da)
 - May 03 - [Zenn での Markdown ページ内リンクの書き方](https://zenn.dev/k_kuroguro/articles/759fefb5b07667)
 - May 02 - [リサジュー曲線についての数学的説明](https://zenn.dev/k_kuroguro/articles/b73e4e6e3d2c13)
-- Apr 26 - [[VSCode] 拡張機能のサイドバー要素にフォーカスするショートカットの設定](https://zenn.dev/k_kuroguro/articles/539ae5f178ca8f)
 <!-- feed end -->
 
 ## Links
