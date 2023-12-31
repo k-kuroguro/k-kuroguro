@@ -12,7 +12,7 @@
 - [rust-gobblet](https://github.com/k-kuroguro/rust-gobblet) - Rust library for management Gobblet game.
 - [rust-huffman](https://github.com/k-kuroguro/rust-huffman) - Huffman coding encoder/decoder written in Rust.
 - [vscode-csv2latex](https://github.com/k-kuroguro/vscode-csv2latex) - VSCode extension for converting CSV or Excel table to LaTeX tabular.
-- [File2QRCodeGif](https://k-kuroguro.github.io/file-to-qr-code-gif) - An app that generates QR Code GIFs from files for file transfer through scanning.
+- [File2QRCodeGif](https://k-kuroguro.github.io/file-to-qr-code-gif) - Web app that generates QR Code GIFs from files for file transfer through scanning.
 
 ## Recent Posts
 
