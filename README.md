@@ -24,6 +24,10 @@
 - Oct 22 - [固定長データを持つ全二分木のシリアライズとデシリアライズ](https://zenn.dev/k_kuroguro/articles/5baee620d0ffbd)
 <!-- feed end -->
 
+## Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Languages and Tools
 
 [![Languages and Tools](https://skillicons.dev/icons?i=rust,cpp,js,ts,py,ros,git,vscode,linux)](https://skillicons.dev)
