@@ -26,11 +26,11 @@
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/k-kuroguro/vscode-numworks/issues/2#issuecomment-1878781583) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
-2. 🔒 Closed issue [#2](https://github.com/k-kuroguro/vscode-numworks/issues/2) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
-3. 🗣 Commented on [#3](https://github.com/k-kuroguro/vscode-numworks/issues/3#issuecomment-1878528161) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
-4. 🔒 Closed issue [#3](https://github.com/k-kuroguro/vscode-numworks/issues/3) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
-5. 🗣 Commented on [#4](https://github.com/k-kuroguro/vscode-numworks/issues/4#issuecomment-1876933184) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
+1. 🚀 Published release [1.0.0](https://github.com/k-kuroguro/vscode-extension-template/releases/tag/1.0.0) in [k-kuroguro/vscode-extension-template](https://github.com/k-kuroguro/vscode-extension-template)
+2. 🗣 Commented on [#2](https://github.com/k-kuroguro/vscode-numworks/issues/2#issuecomment-1878781583) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
+3. 🔒 Closed issue [#2](https://github.com/k-kuroguro/vscode-numworks/issues/2) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
+4. 🗣 Commented on [#3](https://github.com/k-kuroguro/vscode-numworks/issues/3#issuecomment-1878528161) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
+5. 🔒 Closed issue [#3](https://github.com/k-kuroguro/vscode-numworks/issues/3) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
 <!--END_SECTION:activity-->
 
 ## Languages and Tools
