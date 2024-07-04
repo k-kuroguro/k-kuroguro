@@ -31,7 +31,7 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/k-kuroguro/vscode-extension-template/releases/tag/1.0.0) in [k-kuroguro/vscode-extension-template](https://github.com/k-kuroguro/vscode-extension-template)
+1. 🎉 Merged PR [#13](https://github.com/k-kuroguro/vs-knowledge-notes/pull/13) in [k-kuroguro/vs-knowledge-notes](https://github.com/k-kuroguro/vs-knowledge-notes)
 2. 🗣 Commented on [#2](https://github.com/k-kuroguro/vscode-numworks/issues/2#issuecomment-1878781583) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
 3. 🔒 Closed issue [#2](https://github.com/k-kuroguro/vscode-numworks/issues/2) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
 4. 🗣 Commented on [#3](https://github.com/k-kuroguro/vscode-numworks/issues/3#issuecomment-1878528161) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
