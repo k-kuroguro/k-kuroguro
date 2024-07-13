@@ -31,9 +31,9 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/k-kuroguro/vs-knowledge-notes/pull/13) in [k-kuroguro/vs-knowledge-notes](https://github.com/k-kuroguro/vs-knowledge-notes)
-2. 🗣 Commented on [#2](https://github.com/k-kuroguro/vscode-numworks/issues/2#issuecomment-1878781583) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
-3. 🔒 Closed issue [#2](https://github.com/k-kuroguro/vscode-numworks/issues/2) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
+1. 🗣 Commented on [#38](https://github.com/Negodya1/Create-Vintage-Improvements/issues/38#issuecomment-2226852147) in [Negodya1/Create-Vintage-Improvements](https://github.com/Negodya1/Create-Vintage-Improvements)
+2. ❗ Opened issue [#38](https://github.com/Negodya1/Create-Vintage-Improvements/issues/38) in [Negodya1/Create-Vintage-Improvements](https://github.com/Negodya1/Create-Vintage-Improvements)
+3. 🎉 Merged PR [#13](https://github.com/k-kuroguro/vs-knowledge-notes/pull/13) in [k-kuroguro/vs-knowledge-notes](https://github.com/k-kuroguro/vs-knowledge-notes)
 4. 🗣 Commented on [#3](https://github.com/k-kuroguro/vscode-numworks/issues/3#issuecomment-1878528161) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
 5. 🔒 Closed issue [#3](https://github.com/k-kuroguro/vscode-numworks/issues/3) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
 <!--END_SECTION:activity-->
