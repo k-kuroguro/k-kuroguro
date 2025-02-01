@@ -14,3 +14,4 @@ jobs:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
            COMMIT_MSG: "docs: Update recent GitHub activity"
+           EMPTY_COMMIT_MSG: "chore: Empty commit to keep workflow active"
