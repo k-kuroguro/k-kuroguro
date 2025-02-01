@@ -31,11 +31,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/k-kuroguro/vscode-extension-template/releases/tag/1.0.0) in [k-kuroguro/vscode-extension-template](https://github.com/k-kuroguro/vscode-extension-template)
-2. 🗣 Commented on [#2](https://github.com/k-kuroguro/vscode-numworks/issues/2#issuecomment-1878781583) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
-3. 🔒 Closed issue [#2](https://github.com/k-kuroguro/vscode-numworks/issues/2) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
-4. 🗣 Commented on [#3](https://github.com/k-kuroguro/vscode-numworks/issues/3#issuecomment-1878528161) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
-5. 🔒 Closed issue [#3](https://github.com/k-kuroguro/vscode-numworks/issues/3) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
+1. 💪 Opened PR [#20](https://github.com/k-kuroguro/dl-lightning-template2/pull/20) in [k-kuroguro/dl-lightning-template2](https://github.com/k-kuroguro/dl-lightning-template2)
+2. ❌ Closed PR [#19](https://github.com/k-kuroguro/dl-lightning-template2/pull/19) in [k-kuroguro/dl-lightning-template2](https://github.com/k-kuroguro/dl-lightning-template2)
+3. 💪 Opened PR [#19](https://github.com/k-kuroguro/dl-lightning-template2/pull/19) in [k-kuroguro/dl-lightning-template2](https://github.com/k-kuroguro/dl-lightning-template2)
+4. ❌ Closed PR [#18](https://github.com/k-kuroguro/dl-lightning-template2/pull/18) in [k-kuroguro/dl-lightning-template2](https://github.com/k-kuroguro/dl-lightning-template2)
+5. 💪 Opened PR [#18](https://github.com/k-kuroguro/dl-lightning-template2/pull/18) in [k-kuroguro/dl-lightning-template2](https://github.com/k-kuroguro/dl-lightning-template2)
 <!--END_SECTION:activity-->
 
 ---
