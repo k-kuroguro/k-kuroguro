@@ -1,17 +1,17 @@
 name: "GitHub Activity CI"
 on:
-   workflow_dispatch:
-   schedule:
-      - cron: "0 15 * * *"
+  workflow_dispatch:
+  schedule:
+    - cron: "0 15 * * *"
 
 jobs:
-   update-recent-github-activity:
-      runs-on: ubuntu-latest
-      steps:
+  update-recent-github-activity:
+    runs-on: ubuntu-latest
+    steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-           COMMIT_MSG: "docs: Update recent GitHub activity"
-           EMPTY_COMMIT_MSG: "chore: Empty commit to keep workflow active"
+          COMMIT_MSG: "docs: Update recent GitHub activity"
+          EMPTY_COMMIT_MSG: "chore: Empty commit to keep workflow active"
