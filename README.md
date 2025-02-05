@@ -31,11 +31,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/k-kuroguro/dl-lightning-template2/pull/20) in [k-kuroguro/dl-lightning-template2](https://github.com/k-kuroguro/dl-lightning-template2)
-2. ❌ Closed PR [#19](https://github.com/k-kuroguro/dl-lightning-template2/pull/19) in [k-kuroguro/dl-lightning-template2](https://github.com/k-kuroguro/dl-lightning-template2)
-3. 💪 Opened PR [#19](https://github.com/k-kuroguro/dl-lightning-template2/pull/19) in [k-kuroguro/dl-lightning-template2](https://github.com/k-kuroguro/dl-lightning-template2)
-4. ❌ Closed PR [#18](https://github.com/k-kuroguro/dl-lightning-template2/pull/18) in [k-kuroguro/dl-lightning-template2](https://github.com/k-kuroguro/dl-lightning-template2)
-5. 💪 Opened PR [#18](https://github.com/k-kuroguro/dl-lightning-template2/pull/18) in [k-kuroguro/dl-lightning-template2](https://github.com/k-kuroguro/dl-lightning-template2)
+1. 🚀 Published release [v1.3.2](https://github.com/k-kuroguro/vscode-numworks/releases/tag/v1.3.2) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
+2. 🚀 Published release [v1.3.2](https://github.com/k-kuroguro/vscode-numworks/releases/tag/v1.3.2) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
+3. 🚀 Published release [v1.3.1](https://github.com/k-kuroguro/vscode-numworks/releases/tag/v1.3.1) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
+4. 🚀 Published release [v1.3.1](https://github.com/k-kuroguro/vscode-numworks/releases/tag/v1.3.1) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
+5. 🚀 Published release [v1.3.1](https://github.com/k-kuroguro/vscode-numworks/releases/tag/v1.3.1) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
 <!--END_SECTION:activity-->
 
 ---
