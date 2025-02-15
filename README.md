@@ -31,11 +31,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.3.2](https://github.com/k-kuroguro/vscode-numworks/releases/tag/v1.3.2) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
-2. 🚀 Published release [v1.3.2](https://github.com/k-kuroguro/vscode-numworks/releases/tag/v1.3.2) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
-3. 🚀 Published release [v1.3.1](https://github.com/k-kuroguro/vscode-numworks/releases/tag/v1.3.1) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
-4. 🚀 Published release [v1.3.1](https://github.com/k-kuroguro/vscode-numworks/releases/tag/v1.3.1) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
-5. 🚀 Published release [v1.3.1](https://github.com/k-kuroguro/vscode-numworks/releases/tag/v1.3.1) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
+1. 💪 Opened PR [#3](https://github.com/k-kuroguro/vscode-extension-templates/pull/3) in [k-kuroguro/vscode-extension-templates](https://github.com/k-kuroguro/vscode-extension-templates)
+2. ❌ Closed PR [#2](https://github.com/k-kuroguro/vscode-extension-templates/pull/2) in [k-kuroguro/vscode-extension-templates](https://github.com/k-kuroguro/vscode-extension-templates)
+3. 💪 Opened PR [#2](https://github.com/k-kuroguro/vscode-extension-templates/pull/2) in [k-kuroguro/vscode-extension-templates](https://github.com/k-kuroguro/vscode-extension-templates)
+4. 🚀 Published release [v1.3.2](https://github.com/k-kuroguro/vscode-numworks/releases/tag/v1.3.2) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
+5. 🚀 Published release [v1.3.2](https://github.com/k-kuroguro/vscode-numworks/releases/tag/v1.3.2) in [k-kuroguro/vscode-numworks](https://github.com/k-kuroguro/vscode-numworks)
 <!--END_SECTION:activity-->
 
 ---
