@@ -31,11 +31,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/k-kuroguro/vscode-cluster-smi/releases/tag/v1.0.1) in [k-kuroguro/vscode-cluster-smi](https://github.com/k-kuroguro/vscode-cluster-smi)
-2. 🚀 Published release [v1.0.0](https://github.com/k-kuroguro/vscode-cluster-smi/releases/tag/1.0.0) in [k-kuroguro/vscode-cluster-smi](https://github.com/k-kuroguro/vscode-cluster-smi)
-3. 💪 Opened PR [#3](https://github.com/k-kuroguro/vscode-extension-templates/pull/3) in [k-kuroguro/vscode-extension-templates](https://github.com/k-kuroguro/vscode-extension-templates)
-4. ❌ Closed PR [#2](https://github.com/k-kuroguro/vscode-extension-templates/pull/2) in [k-kuroguro/vscode-extension-templates](https://github.com/k-kuroguro/vscode-extension-templates)
-5. 💪 Opened PR [#2](https://github.com/k-kuroguro/vscode-extension-templates/pull/2) in [k-kuroguro/vscode-extension-templates](https://github.com/k-kuroguro/vscode-extension-templates)
+1. 🎉 Merged PR [#1](https://github.com/k-kuroguro/vscode-cluster-smi/pull/1) in [k-kuroguro/vscode-cluster-smi](https://github.com/k-kuroguro/vscode-cluster-smi)
+2. 🚀 Published release [v1.0.1](https://github.com/k-kuroguro/vscode-cluster-smi/releases/tag/v1.0.1) in [k-kuroguro/vscode-cluster-smi](https://github.com/k-kuroguro/vscode-cluster-smi)
+3. 🚀 Published release [v1.0.0](https://github.com/k-kuroguro/vscode-cluster-smi/releases/tag/1.0.0) in [k-kuroguro/vscode-cluster-smi](https://github.com/k-kuroguro/vscode-cluster-smi)
+4. 💪 Opened PR [#3](https://github.com/k-kuroguro/vscode-extension-templates/pull/3) in [k-kuroguro/vscode-extension-templates](https://github.com/k-kuroguro/vscode-extension-templates)
+5. ❌ Closed PR [#2](https://github.com/k-kuroguro/vscode-extension-templates/pull/2) in [k-kuroguro/vscode-extension-templates](https://github.com/k-kuroguro/vscode-extension-templates)
 <!--END_SECTION:activity-->
 
 ---
