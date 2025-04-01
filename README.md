@@ -31,11 +31,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/IIM-TTIJ/MVA2025-SMOT4SB/issues/1#issuecomment-2727351990) in [IIM-TTIJ/MVA2025-SMOT4SB](https://github.com/IIM-TTIJ/MVA2025-SMOT4SB)
-2. 🗣 Commented on [#1](https://github.com/IIM-TTIJ/MVA2025-SMOT4SB/issues/1#issuecomment-2727223390) in [IIM-TTIJ/MVA2025-SMOT4SB](https://github.com/IIM-TTIJ/MVA2025-SMOT4SB)
-3. 🚀 Published release [v1.1.0](https://github.com/k-kuroguro/vscode-cluster-smi/releases/tag/v1.1.0) in [k-kuroguro/vscode-cluster-smi](https://github.com/k-kuroguro/vscode-cluster-smi)
+1. 🎉 Merged PR [#2](https://github.com/k-kuroguro/vscode-cluster-smi/pull/2) in [k-kuroguro/vscode-cluster-smi](https://github.com/k-kuroguro/vscode-cluster-smi)
+2. 🗣 Commented on [#1](https://github.com/IIM-TTIJ/MVA2025-SMOT4SB/issues/1#issuecomment-2727351990) in [IIM-TTIJ/MVA2025-SMOT4SB](https://github.com/IIM-TTIJ/MVA2025-SMOT4SB)
+3. 🗣 Commented on [#1](https://github.com/IIM-TTIJ/MVA2025-SMOT4SB/issues/1#issuecomment-2727223390) in [IIM-TTIJ/MVA2025-SMOT4SB](https://github.com/IIM-TTIJ/MVA2025-SMOT4SB)
 4. 🚀 Published release [v1.1.0](https://github.com/k-kuroguro/vscode-cluster-smi/releases/tag/v1.1.0) in [k-kuroguro/vscode-cluster-smi](https://github.com/k-kuroguro/vscode-cluster-smi)
-5. 🎉 Merged PR [#1](https://github.com/k-kuroguro/vscode-cluster-smi/pull/1) in [k-kuroguro/vscode-cluster-smi](https://github.com/k-kuroguro/vscode-cluster-smi)
+5. 🚀 Published release [v1.1.0](https://github.com/k-kuroguro/vscode-cluster-smi/releases/tag/v1.1.0) in [k-kuroguro/vscode-cluster-smi](https://github.com/k-kuroguro/vscode-cluster-smi)
 <!--END_SECTION:activity-->
 
 ---
