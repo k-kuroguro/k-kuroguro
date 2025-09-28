@@ -31,7 +31,7 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/roosta/tmux-fuzzback/issues/24#issuecomment-2846603977) in [roosta/tmux-fuzzback](https://github.com/roosta/tmux-fuzzback)
+1. ❗ Opened issue [#1](https://github.com/lost-melody/tmux-command-palette/issues/1) in [lost-melody/tmux-command-palette](https://github.com/lost-melody/tmux-command-palette)
 2. ❗ Opened issue [#24](https://github.com/roosta/tmux-fuzzback/issues/24) in [roosta/tmux-fuzzback](https://github.com/roosta/tmux-fuzzback)
 3. 🗣 Commented on [#1](https://github.com/IIM-TTIJ/MVA2025-SMOT4SB/issues/1#issuecomment-2727223390) in [IIM-TTIJ/MVA2025-SMOT4SB](https://github.com/IIM-TTIJ/MVA2025-SMOT4SB)
 4. 🚀 Published release [v1.1.0](https://github.com/k-kuroguro/vscode-cluster-smi/releases/tag/v1.1.0) in [k-kuroguro/vscode-cluster-smi](https://github.com/k-kuroguro/vscode-cluster-smi)
