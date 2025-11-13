@@ -31,9 +31,9 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](undefined) in [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij)
-2. ❗ Opened issue [#24](https://github.com/roosta/tmux-fuzzback/issues/24) in [roosta/tmux-fuzzback](https://github.com/roosta/tmux-fuzzback)
-3. 🗣 Commented on [#1](https://github.com/IIM-TTIJ/MVA2025-SMOT4SB/issues/1#issuecomment-2727223390) in [IIM-TTIJ/MVA2025-SMOT4SB](https://github.com/IIM-TTIJ/MVA2025-SMOT4SB)
+1. ❌ Closed PR [#1](undefined) in [k-kuroguro/dotfiles](https://github.com/k-kuroguro/dotfiles)
+2. ❌ Closed PR [#1](undefined) in [k-kuroguro/zellij-listfmt](https://github.com/k-kuroguro/zellij-listfmt)
+3. 💪 Opened PR [#27](undefined) in [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij)
 4. 🚀 Published release [v1.1.0](https://github.com/k-kuroguro/vscode-cluster-smi/releases/tag/v1.1.0) in [k-kuroguro/vscode-cluster-smi](https://github.com/k-kuroguro/vscode-cluster-smi)
 5. 🚀 Published release [v1.1.0](https://github.com/k-kuroguro/vscode-cluster-smi/releases/tag/v1.1.0) in [k-kuroguro/vscode-cluster-smi](https://github.com/k-kuroguro/vscode-cluster-smi)
 <!--END_SECTION:activity-->
