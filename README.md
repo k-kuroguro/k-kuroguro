@@ -31,11 +31,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](undefined) in [k-kuroguro/dotfiles](https://github.com/k-kuroguro/dotfiles)
-2. ❌ Closed PR [#1](undefined) in [k-kuroguro/zellij-listfmt](https://github.com/k-kuroguro/zellij-listfmt)
-3. 💪 Opened PR [#27](undefined) in [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij)
-4. 🚀 Published release [v1.1.0](https://github.com/k-kuroguro/vscode-cluster-smi/releases/tag/v1.1.0) in [k-kuroguro/vscode-cluster-smi](https://github.com/k-kuroguro/vscode-cluster-smi)
-5. 🚀 Published release [v1.1.0](https://github.com/k-kuroguro/vscode-cluster-smi/releases/tag/v1.1.0) in [k-kuroguro/vscode-cluster-smi](https://github.com/k-kuroguro/vscode-cluster-smi)
+1. 🗣 Commented on [#2](https://github.com/k-kuroguro/dotdep/pull/2#issuecomment-3588135425) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
+2.  Assigned issue [#1](https://github.com/k-kuroguro/dotdep/issues/1) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
+3. ❗ Opened issue [#1](https://github.com/k-kuroguro/dotdep/issues/1) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
+4. ❌ Closed PR [#1](undefined) in [k-kuroguro/dotfiles](https://github.com/k-kuroguro/dotfiles)
+5. ❌ Closed PR [#1](undefined) in [k-kuroguro/zellij-listfmt](https://github.com/k-kuroguro/zellij-listfmt)
 <!--END_SECTION:activity-->
 
 ---
