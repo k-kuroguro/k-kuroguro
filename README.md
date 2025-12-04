@@ -31,11 +31,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](undefined) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
-2. 💪 Opened PR [#3](undefined) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
-3. 🔒 Closed issue [#1](https://github.com/k-kuroguro/dotdep/issues/1) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
-4. 🗣 Commented on [#2](https://github.com/k-kuroguro/dotdep/pull/2#issuecomment-3588135425) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
-5.  Assigned issue [#1](https://github.com/k-kuroguro/dotdep/issues/1) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
+1. ❌ Merged PR [#45147](undefined) in [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry)
+2. 💪 Opened PR [#45147](undefined) in [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry)
+3. ❌ Merged PR [#3](undefined) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
+4. 💪 Opened PR [#3](undefined) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
+5. 🔒 Closed issue [#1](https://github.com/k-kuroguro/dotdep/issues/1) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
 <!--END_SECTION:activity-->
 
 ---
