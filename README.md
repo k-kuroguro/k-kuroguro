@@ -31,8 +31,8 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#45147](undefined) in [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry)
-2. 💪 Opened PR [#45147](undefined) in [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry)
+1. 🎉 Merged PR [#45147](https://github.com/aquaproj/aqua-registry/pull/45147) in [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry)
+2. 💪 Opened PR [#45147](https://github.com/aquaproj/aqua-registry/pull/45147) in [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry)
 3. ❌ Merged PR [#3](undefined) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
 4. 💪 Opened PR [#3](undefined) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
 5. 🔒 Closed issue [#1](https://github.com/k-kuroguro/dotdep/issues/1) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
