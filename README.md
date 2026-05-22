@@ -31,7 +31,7 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45147](https://github.com/aquaproj/aqua-registry/pull/45147) in [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry)
+1. 🗣 Commented on [#1](https://github.com/k-kuroguro/fzf-zellij/issues/1#issuecomment-4520363232) in [k-kuroguro/fzf-zellij](https://github.com/k-kuroguro/fzf-zellij)
 2. 💪 Opened PR [#45147](https://github.com/aquaproj/aqua-registry/pull/45147) in [aquaproj/aqua-registry](https://github.com/aquaproj/aqua-registry)
 3. ❌ Merged PR [#3](undefined) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
 4. 💪 Opened PR [#3](undefined) in [k-kuroguro/dotdep](https://github.com/k-kuroguro/dotdep)
